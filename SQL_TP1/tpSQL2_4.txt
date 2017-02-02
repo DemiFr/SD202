@@ -1,0 +1,8 @@
+SQL> start tpSQL2_4.sql
+
+REGION                                                                          
+------------------------------                                                  
+Bourgogne                                                                       
+Rhone                                                                           
+
+SQL> spool off

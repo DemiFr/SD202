@@ -1,0 +1,23 @@
+SQL> SELECT *
+  2  FROM PRODUCTEURS P,RECOLTES R,VINS V
+  3  WHERE P.NP = R.NP
+  4  AND R.NV = V.NV
+  5  GROUP BY NP;
+GROUP BY NP
+         *
+ERROR at line 5:
+ORA-00918: column ambiguously defined 
+
+
+SQL> SELECT *
+  2  FROM PRODUCTEURS P,RECOLTES R,VINS V
+  3  WHERE P.NP = R.NP
+  4  AND R.NV = V.NV
+  5  GROUP BY P.NP;
+SELECT *
+       *
+ERROR at line 1:
+ORA-00979: not a GROUP BY expression 
+
+
+SQL> spool tpSQL2_4.txt

@@ -1,0 +1,60 @@
+SQL> start tpSQL2_5.sql
+
+  SUM(QTE) CRU                                            MILL                  
+---------- ---------------------------------------- ----------                  
+        55 Pommard                                        1976                  
+        23 Cote de Brouilly                               1980                  
+         5 Volnay                                         1980                  
+        72 Richebourg                                     1943                  
+        80 Saint Amour                                    1974                  
+        18 Cotes de Provence                              1980                  
+        11 Savigny les Beaunes                            1978                  
+        21 Cotes de Nuits                                 1978                  
+         2 Julienas                                       1974                  
+        36 Gentil                                         1975                  
+        44 Savigny les Beaunes                            1974                  
+
+  SUM(QTE) CRU                                            MILL                  
+---------- ---------------------------------------- ----------                  
+        10 Pouilly Vinzelles                              1968                  
+        14 Saint Amour                                    1980                  
+        96 Cotes de Beaune Villages                       1975                  
+       520 Beaujolais Villages                            1979                  
+         2 Meursault                                      1980                  
+         4 Chateau Corton Grancey                         1980                  
+         7 Savigny les Beaunes                            1977                  
+         1 Chenas                                         1984                  
+        15 Rasteau                                        1980                  
+        24 Seyssel                                        1974                  
+        36 Mercurey                                       1981                  
+
+  SUM(QTE) CRU                                            MILL                  
+---------- ---------------------------------------- ----------                  
+        10 Beaujolais Villages                            1975                  
+       130 Beaujolais Villages                            1978                  
+        12 Coteaux du Tricastin                           1978                  
+         9 Etoile                                         1980                  
+        25 Cornas                                         1980                  
+        30 Chapelle Chambertin                            1973                  
+         7 Beaujolais Primeur                             1983                  
+         7 Fleurie                                        1980                  
+         8 Arbois                                         1980                  
+        31 Grands Echezeaux                               1968                  
+        80 Auxey Duresses                                 1914                  
+
+  SUM(QTE) CRU                                            MILL                  
+---------- ---------------------------------------- ----------                  
+         5 Clairette de Die                               1976                  
+         5 Gigondas                                       1978                  
+        21 Seyssel                                        1980                  
+        57 Mercurey                                       1980                  
+        23 Pommard                                        1972                  
+        14 Cotes de Beaune Villages                       1971                  
+       106 Monthelie                                      1968                  
+       120 Beaujolais Villages                            1976                  
+         1 Coteaux du Tricastin                           1974                  
+        33 Tavel                                          1980                  
+
+43 rows selected.
+
+SQL> spool off

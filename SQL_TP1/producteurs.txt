@@ -1,0 +1,588 @@
+SQL> select * from producteurs
+  2  ;
+
+        NP NOM                                                                  
+---------- ----------------------------------------                             
+PRENOM                                   REGION                                 
+---------------------------------------- ------------------------------         
+        64 Marius Bel Air                                                       
+Morin                                    Beaujolais                             
+                                                                                
+        66 Cooperative                                                          
+                                         Beaujolais                             
+                                                                                
+        67 Descombes                                                            
+Jean Ernest                              Beaujolais                             
+                                                                                
+
+        NP NOM                                                                  
+---------- ----------------------------------------                             
+PRENOM                                   REGION                                 
+---------------------------------------- ------------------------------         
+        68 Savoye                                                               
+Louis                                    Beaujolais                             
+                                                                                
+        69 Janin                                                                
+Marcel                                   Beaujolais                             
+                                                                                
+         7 Lasnier                                                              
+Pierre                                   Bourgogne                              
+                                                                                
+
+        NP NOM                                                                  
+---------- ----------------------------------------                             
+PRENOM                                   REGION                                 
+---------------------------------------- ------------------------------         
+        70 Trichard                                                             
+Benoit                                   Beaujolais                             
+                                                                                
+        71 Chalandard                                                           
+Danile                                   Jura                                   
+                                                                                
+        72 Reverchon                                                            
+Joseph                                   Jura                                   
+                                                                                
+
+        NP NOM                                                                  
+---------- ----------------------------------------                             
+PRENOM                                   REGION                                 
+---------------------------------------- ------------------------------         
+        73 Bourguignon                                                          
+Emile                                    Jura                                   
+                                                                                
+        74 Grand                                                                
+Rene                                     Jura                                   
+                                                                                
+        75 Loye                                                                 
+Camille                                  Jura                                   
+                                                                                
+
+        NP NOM                                                                  
+---------- ----------------------------------------                             
+PRENOM                                   REGION                                 
+---------------------------------------- ------------------------------         
+        76 Maire                                                                
+Henri                                    Jura                                   
+                                                                                
+        77 Tissot                                                               
+Andre                                    Jura                                   
+                                                                                
+        78 Michlel                                                              
+Pierre Emile                             Jura                                   
+                                                                                
+
+        NP NOM                                                                  
+---------- ----------------------------------------                             
+PRENOM                                   REGION                                 
+---------------------------------------- ------------------------------         
+        79 Petit                                                                
+Gerard                                   Jura                                   
+                                                                                
+         8 Lioger d'Harduy                                                      
+Gabriel                                  Bourgogne                              
+                                                                                
+        80 Devaux                                                               
+Jean Paul                                Jura                                   
+                                                                                
+
+        NP NOM                                                                  
+---------- ----------------------------------------                             
+PRENOM                                   REGION                                 
+---------------------------------------- ------------------------------         
+        81 Peltier                                                              
+Pierre                                   Jura                                   
+                                                                                
+        82 Mollex                                                               
+Georges                                  Savoie                                 
+                                                                                
+        83 Goy                                                                  
+                                         Jura                                   
+                                                                                
+
+        NP NOM                                                                  
+---------- ----------------------------------------                             
+PRENOM                                   REGION                                 
+---------------------------------------- ------------------------------         
+        84 Metral                                                               
+Jean                                     Jura                                   
+                                                                                
+        85 Champet                                                              
+Emile                                    Rhone                                  
+                                                                                
+        86 Dumazet                                                              
+Marc                                     Rhone                                  
+                                                                                
+
+        NP NOM                                                                  
+---------- ----------------------------------------                             
+PRENOM                                   REGION                                 
+---------------------------------------- ------------------------------         
+        88 Begot                                                                
+Albert                                   Rhone                                  
+                                                                                
+        89 Michelas                                                             
+Robert                                   Rhone                                  
+                                                                                
+         9 Moniot                                                               
+Gilbert                                  Bourgogne                              
+                                                                                
+
+        NP NOM                                                                  
+---------- ----------------------------------------                             
+PRENOM                                   REGION                                 
+---------------------------------------- ------------------------------         
+        90 Roure                                                                
+Raymond                                  Rhone                                  
+                                                                                
+        91 Chave                                                                
+Gerard                                   Rhone                                  
+                                                                                
+        92 De Boissieu                                                          
+                                         Rhone                                  
+                                                                                
+
+        NP NOM                                                                  
+---------- ----------------------------------------                             
+PRENOM                                   REGION                                 
+---------------------------------------- ------------------------------         
+        93 Marsanne                                                             
+Jean                                     Rhone                                  
+                                                                                
+        94 Grippat                                                              
+Jean Louis                               Rhone                                  
+                                                                                
+        95 Verset                                                               
+Louis                                    Rhone                                  
+                                                                                
+
+        NP NOM                                                                  
+---------- ----------------------------------------                             
+PRENOM                                   REGION                                 
+---------------------------------------- ------------------------------         
+        96 Boisson                                                              
+Jean Pierre                              Rhone                                  
+                                                                                
+        97 Quiot                                                                
+Pierre                                   Rhone                                  
+                                                                                
+        98 Berard                                                               
+                                         Rhone                                  
+                                                                                
+
+        NP NOM                                                                  
+---------- ----------------------------------------                             
+PRENOM                                   REGION                                 
+---------------------------------------- ------------------------------         
+        99 Cooperative                                                          
+                                         Rhone                                  
+                                                                                
+        24 Guillemot                                                            
+Pierre                                   Bourgogne                              
+                                                                                
+        25 Valentin Bouchotte                                                   
+Roger                                    Bourgogne                              
+                                                                                
+
+        NP NOM                                                                  
+---------- ----------------------------------------                             
+PRENOM                                   REGION                                 
+---------------------------------------- ------------------------------         
+        26 Violot                                                               
+Gilbert                                  Bourgogne                              
+                                                                                
+        27 Glantenay                                                            
+Louis                                    Bourgogne                              
+                                                                                
+        28 Monnier                                                              
+Rene                                     Bourgogne                              
+                                                                                
+
+        NP NOM                                                                  
+---------- ----------------------------------------                             
+PRENOM                                   REGION                                 
+---------------------------------------- ------------------------------         
+        29 de Suremain                                                          
+Robert                                   Bourgogne                              
+                                                                                
+         3 Six                                                                  
+Paul                                     Alsace                                 
+                                                                                
+        30 Desbois                                                              
+Maurice                                  Bourgogne                              
+                                                                                
+
+        NP NOM                                                                  
+---------- ----------------------------------------                             
+PRENOM                                   REGION                                 
+---------------------------------------- ------------------------------         
+        31 Prudhon                                                              
+Henri                                    Bourgogne                              
+                                                                                
+        32 Mestre                                                               
+Philippe                                 Bourgogne                              
+                                                                                
+        33 Prieur                                                               
+Guy                                      Bourgogne                              
+                                                                                
+
+        NP NOM                                                                  
+---------- ----------------------------------------                             
+PRENOM                                   REGION                                 
+---------------------------------------- ------------------------------         
+        34 Monnier                                                              
+Rene                                     Bourgogne                              
+                                                                                
+        35 Roulot                                                               
+Guy                                      Bourgogne                              
+                                                                                
+        36 Sauzet                                                               
+Etienne                                  Bourgogne                              
+                                                                                
+
+        NP NOM                                                                  
+---------- ----------------------------------------                             
+PRENOM                                   REGION                                 
+---------------------------------------- ------------------------------         
+        37 Delagrange Bachelet                                                  
+                                         Bourgogne                              
+                                                                                
+        38 de Launay                                                            
+Paul                                     Bourgogne                              
+                                                                                
+        39 de Suremin                                                           
+Hugues                                   Bourgogne                              
+                                                                                
+
+        NP NOM                                                                  
+---------- ----------------------------------------                             
+PRENOM                                   REGION                                 
+---------------------------------------- ------------------------------         
+         4 Stentz                                                               
+Fernand                                  Alsace                                 
+                                                                                
+        40 Genelot                                                              
+Maurice                                  Bourgogne                              
+                                                                                
+        41 Juillot                                                              
+Michel                                   Bourgogne                              
+                                                                                
+
+        NP NOM                                                                  
+---------- ----------------------------------------                             
+PRENOM                                   REGION                                 
+---------------------------------------- ------------------------------         
+        42 Juillot                                                              
+Maurice                                  Bourgogne                              
+                                                                                
+        43 Menand                                                               
+Jean Claude                              Bourgogne                              
+                                                                                
+        44 Feyveley                                                             
+                                         Bourgogne                              
+                                                                                
+
+        NP NOM                                                                  
+---------- ----------------------------------------                             
+PRENOM                                   REGION                                 
+---------------------------------------- ------------------------------         
+        45 Jeannin                                                              
+Andre                                    Bourgogne                              
+                                                                                
+        46 Monassier                                                            
+Armand                                   Bourgogne                              
+                                                                                
+        47 Thenard                                                              
+                                         Bourgogne                              
+                                                                                
+
+        NP NOM                                                                  
+---------- ----------------------------------------                             
+PRENOM                                   REGION                                 
+---------------------------------------- ------------------------------         
+        48 Flamand                                                              
+                                         Bourgogne                              
+                                                                                
+        49 Guillot                                                              
+Pierre                                   Bourgogne                              
+                                                                                
+         5 Joudeat                                                              
+Lucien                                   Bourgogne                              
+                                                                                
+
+        NP NOM                                                                  
+---------- ----------------------------------------                             
+PRENOM                                   REGION                                 
+---------------------------------------- ------------------------------         
+        50 Chagny                                                               
+Georges                                  Bourgogne                              
+                                                                                
+        51 Simonet                                                              
+Leon                                     Bourgogne                              
+                                                                                
+        52 Lapierre                                                             
+Jean                                     Bourgogne                              
+                                                                                
+
+        NP NOM                                                                  
+---------- ----------------------------------------                             
+PRENOM                                   REGION                                 
+---------------------------------------- ------------------------------         
+        53 Cooperative                                                          
+                                         Bourgogne                              
+                                                                                
+        54 Cooperative                                                          
+                                         Bourgogne                              
+                                                                                
+        55 Michon                                                               
+                                         Beaujolais                             
+                                                                                
+
+        NP NOM                                                                  
+---------- ----------------------------------------                             
+PRENOM                                   REGION                                 
+---------------------------------------- ------------------------------         
+        56 Coutelle                                                             
+Jean                                     Beaujolais                             
+                                                                                
+        57 Desmules                                                             
+Pierre                                   Beaujolais                             
+                                                                                
+        58 Joubert                                                              
+Claude                                   Beaujolais                             
+                                                                                
+
+        NP NOM                                                                  
+---------- ----------------------------------------                             
+PRENOM                                   REGION                                 
+---------------------------------------- ------------------------------         
+        59 La Thuilliere                                                        
+Jean                                     Beaujolais                             
+                                                                                
+         6 Marmagne                                                             
+Bernard                                  Bourgogne                              
+                                                                                
+        60 Vernus                                                               
+Georges                                  Beaujolais                             
+                                                                                
+
+        NP NOM                                                                  
+---------- ----------------------------------------                             
+PRENOM                                   REGION                                 
+---------------------------------------- ------------------------------         
+        61 Champier                                                             
+Charles                                  Beaujolais                             
+                                                                                
+        62 Champagnon                                                           
+Louis                                    Beaujolais                             
+                                                                                
+         1 Bohn                                                                 
+Rene                                     Alsace                                 
+                                                                                
+
+        NP NOM                                                                  
+---------- ----------------------------------------                             
+PRENOM                                   REGION                                 
+---------------------------------------- ------------------------------         
+        10 Fournier                                                             
+Jean Claude                              Bourgogne                              
+                                                                                
+       100 Bernard                                                              
+Georges                                  Rhone                                  
+                                                                                
+       101 Verdan                                                               
+Antoine                                  Rhone                                  
+                                                                                
+
+        NP NOM                                                                  
+---------- ----------------------------------------                             
+PRENOM                                   REGION                                 
+---------------------------------------- ------------------------------         
+       102 Cooperative                                                          
+                                         Rhone                                  
+                                                                                
+       103 Coulouvrat                                                           
+Michel                                   Rhone                                  
+                                                                                
+       104 Rabasse Chavarin                                                     
+Abel                                     Rhone                                  
+                                                                                
+
+        NP NOM                                                                  
+---------- ----------------------------------------                             
+PRENOM                                   REGION                                 
+---------------------------------------- ------------------------------         
+       105 Roux                                                                 
+Charles                                  Rhone                                  
+                                                                                
+       106 Alary                                                                
+                                         Rhone                                  
+                                                                                
+       107 Meunier                                                              
+Laurent                                  Rhone                                  
+                                                                                
+
+        NP NOM                                                                  
+---------- ----------------------------------------                             
+PRENOM                                   REGION                                 
+---------------------------------------- ------------------------------         
+       108 Archimbaud                                                           
+Jean                                     Rhone                                  
+                                                                                
+       109 Rey                                                                  
+Marcel                                   Rhone                                  
+                                                                                
+        11 Clerget                                                              
+Anne                                     Bourgogne                              
+                                                                                
+
+        NP NOM                                                                  
+---------- ----------------------------------------                             
+PRENOM                                   REGION                                 
+---------------------------------------- ------------------------------         
+       110 Cooperative                                                          
+                                         Rhone                                  
+                                                                                
+       111 Zafiropulo                                                           
+Costa                                    Provence                               
+                                                                                
+       112 Prebost                                                              
+Gaston                                   Provence                               
+                                                                                
+
+        NP NOM                                                                  
+---------- ----------------------------------------                             
+PRENOM                                   REGION                                 
+---------------------------------------- ------------------------------         
+       113 Gomez                                                                
+Rene                                     Provence                               
+                                                                                
+       114 Brunet                                                               
+Georges                                  Provence                               
+                                                                                
+       115 Bordonado                                                            
+Raymond                                  Provence                               
+                                                                                
+
+        NP NOM                                                                  
+---------- ----------------------------------------                             
+PRENOM                                   REGION                                 
+---------------------------------------- ------------------------------         
+       116 Imbert                                                               
+Christian                                Corse                                  
+                                                                                
+       117 Cooperative                                                          
+                                         Languedoc                              
+                                                                                
+       118 Cooperative                                                          
+                                         Languedoc                              
+                                                                                
+
+        NP NOM                                                                  
+---------- ----------------------------------------                             
+PRENOM                                   REGION                                 
+---------------------------------------- ------------------------------         
+       119 Cooperative                                                          
+                                         Pyrenees                               
+                                                                                
+        12 Tortochot                                                            
+Gabriel                                  Bourgogne                              
+                                                                                
+       121 Cooperative                                                          
+                                         Pyrenees                               
+                                                                                
+
+        NP NOM                                                                  
+---------- ----------------------------------------                             
+PRENOM                                   REGION                                 
+---------------------------------------- ------------------------------         
+       122 Dupuy                                                                
+Charles                                  Pyrenees                               
+                                                                                
+       123 Laurent                                                              
+Pierre                                   Pyrenees                               
+                                                                                
+       124 Daurat Fort                                                          
+Robert                                   Pyrenees                               
+                                                                                
+
+        NP NOM                                                                  
+---------- ----------------------------------------                             
+PRENOM                                   REGION                                 
+---------------------------------------- ------------------------------         
+       125 Baldes                                                               
+Jean                                     Sud                                    
+                                                                                
+       126 Jouffreau                                                            
+Jean                                     Sud                                    
+                                                                                
+       127 Brumont                                                              
+Alban                                    Sud                                    
+                                                                                
+
+        NP NOM                                                                  
+---------- ----------------------------------------                             
+PRENOM                                   REGION                                 
+---------------------------------------- ------------------------------         
+       129 Barrere                                                              
+Alfred                                   Sud                                    
+                                                                                
+        13 Grivot                                                               
+Jean                                     Bourgogne                              
+                                                                                
+        14 Jayer                                                                
+Henri                                    Bourgogne                              
+                                                                                
+
+        NP NOM                                                                  
+---------- ----------------------------------------                             
+PRENOM                                   REGION                                 
+---------------------------------------- ------------------------------         
+        15 Drouhin                                                              
+Joseph                                   Bourgogne                              
+                                                                                
+        16 Barbin                                                               
+Bernard                                  Bourgogne                              
+                                                                                
+        17 Faiveley                                                             
+Guy                                      Bourgogne                              
+                                                                                
+
+        NP NOM                                                                  
+---------- ----------------------------------------                             
+PRENOM                                   REGION                                 
+---------------------------------------- ------------------------------         
+        18 Tramier                                                              
+Jean                                     Bourgogne                              
+                                                                                
+        19 Dupaquier                                                            
+Roger                                    Bourgogne                              
+                                                                                
+         2 Boxler                                                               
+Albert                                   Alsace                                 
+                                                                                
+
+        NP NOM                                                                  
+---------- ----------------------------------------                             
+PRENOM                                   REGION                                 
+---------------------------------------- ------------------------------         
+        20 Lamy                                                                 
+Jean                                     Bourgogne                              
+                                                                                
+        21 Cornu                                                                
+Edmond                                   Bourgogne                              
+                                                                                
+        22 Dubreuil Fontaine                                                    
+Pierre                                   Bourgogne                              
+                                                                                
+
+        NP NOM                                                                  
+---------- ----------------------------------------                             
+PRENOM                                   REGION                                 
+---------------------------------------- ------------------------------         
+        23 Laleure                                                              
+                                         Bourgogne                              
+                                                                                
+
+124 rows selected.
+
+SQL> spool off

@@ -1,0 +1,9 @@
+SQL> start tpSQL2_1.sql
+
+TYPE                                                                            
+--------                                                                        
+petit                                                                           
+moyen                                                                           
+gros                                                                            
+
+SQL> spool off
